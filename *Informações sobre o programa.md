@@ -1,5 +1,5 @@
 # Truck-Movimentation
-*TESTE* Fazendo com que um caminhão criado por mim se movimente da esquerda para a direita (entrando e saindo da tela). 
+*TESTE* Fazendo com que um caminhão se movimente da esquerda para a direita (entrando e saindo da tela). 
 
 Este projeto ainda está em desenvolvimento porém já possui o essêncial que eu gostaria. 
 
